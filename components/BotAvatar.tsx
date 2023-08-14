@@ -1,4 +1,4 @@
-import { Avatar, AvatarImage } from '@/components/ui/avatar';
+import { Avatar, AvatarImage } from '@/components/ui/Avatar';
 
 export const BotAvatar = () => (
   <Avatar className='w-8 h-8'>
