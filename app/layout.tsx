@@ -9,7 +9,7 @@ import ToasterProvider from '@/components/ToasterProvider';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'aI_genT',
+  title: 'AI Tool aI_genT',
   description: 'AI Tools for text and image generation',
 };
 
