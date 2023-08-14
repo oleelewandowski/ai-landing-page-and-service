@@ -30,3 +30,8 @@ Click the [link](https://ai-landing-page-and-service.vercel.app/) to see deploye
 - Adapt the layout, fonts, and images to fit different screen sizes.
 
 # Snippets:
+![Landing Page](https://github.com/oleelewandowski/ai-landing-page-and-service/assets/104866200/df11f98a-ae8b-4aa7-b136-4e7c5ba295af)
+![Dashboard](https://github.com/oleelewandowski/ai-landing-page-and-service/assets/104866200/dbaa8a20-8afe-4295-91d9-e16c1fe3190c)
+![Chat](https://github.com/oleelewandowski/ai-landing-page-and-service/assets/104866200/178475b3-6e45-45ef-ac0e-dbcb3efc58f4)
+![Prompt](https://github.com/oleelewandowski/ai-landing-page-and-service/assets/104866200/847592a1-33a7-43cb-bdf7-0fd205f787bd)
+![Premium Modal](https://github.com/oleelewandowski/ai-landing-page-and-service/assets/104866200/ba2b7590-76a4-4756-961c-a139a46f61fb)
